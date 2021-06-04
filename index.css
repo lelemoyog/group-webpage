@@ -1,6 +1,19 @@
-
-element.style {
-}
 body {
- background-color: crimson;
+        background-image: url(img/paper.jpg), url(paper.gif);
+
+       }
+ div {
+     border: 1px  black;
+ }  
+ img {
+    width: 300px;
+    height: 150px;
+    
 }
+  .button1 {background-color: #4CAF50;} /* Green */
+.button2 {background-color: #008CBA;} /* Blue */
+.narvbar {
+    background-color: #4CAF50;
+    font-family: 'Courier New', Courier, monospace;
+}  
+       
